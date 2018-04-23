@@ -129,7 +129,7 @@ var Stopwatch = function (_React$Component) {
                 null,
                 React.createElement(
                     'div',
-                    { className: 'stopwatch' },
+                    null,
                     React.createElement(
                         'button',
                         { onClick: function onClick(e) {
