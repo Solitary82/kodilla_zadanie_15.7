@@ -90,7 +90,7 @@ class Stopwatch extends React.Component {
     render() {
         return(
             <div>
-            <div className={`stopwatch`}>
+            <div className="stopwatch">
                 <button onClick={e =>this.start(e)}>Start</button>
                 <button onClick={e =>this.stop(e)}>Stop</button>
                 <button onClick={e =>this.resetTimer(e)}>Reset</button>
